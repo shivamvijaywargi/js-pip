@@ -10,4 +10,4 @@
 
 ## Limitations
 
-1. Works on chrome as of now.
+1. Works on chromium based browsers as of now.
